@@ -5,3 +5,37 @@ p{
 h1{
     font-family: 'Indie Flower', cursive;
 }
+
+body{
+    background-color: skyblue;
+}
+
+ul{
+    font-family: 'Indie Flower', cursive;
+}
+
+.instruments{
+    background-color: green;
+}
+
+.singers{
+    background-color: red;
+}
+
+#musicians{
+    background-color: #CEA0AE;
+}
+
+#purpose{
+    background-color: #BEEE62;
+}
+
+.passion{
+    background-color: #E8AE68;
+}
+
+img{
+    width: 80px;
+    height: 80px;
+}
+
