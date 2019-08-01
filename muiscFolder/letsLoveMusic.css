@@ -1,9 +1,11 @@
 p{
     font-family: 'Indie Flower', cursive;
+
 }
 
 h1{
     font-family: 'Indie Flower', cursive;
+    text-align: center;
 }
 
 body{
@@ -39,3 +41,6 @@ img{
     height: 80px;
 }
 
+.nav{
+    background-color: yellow;
+}
