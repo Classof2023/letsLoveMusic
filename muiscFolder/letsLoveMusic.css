@@ -18,14 +18,17 @@ ul{
 
 .instruments{
     background-color: green;
+    border: dotted 8px black;
 }
 
 .singers{
     background-color: red;
+    border: dotted 5px blueviolet;
 }
 
 #musicians{
     background-color: #CEA0AE;
+    border: dotted 7px blue;
 }
 
 #purpose{
@@ -34,6 +37,7 @@ ul{
 
 .passion{
     background-color: #E8AE68;
+    border: dotted 4px #BEEE62;
 }
 
 img{
@@ -43,4 +47,5 @@ img{
 
 .nav{
     background-color: yellow;
+    border: dotted 6px black;
 }
